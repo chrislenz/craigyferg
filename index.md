@@ -1,3 +1,5 @@
+Complete Episode List for the Late Late Show with Craig Ferguson.
+
 [Season 1 - 2005](s1.md)
 
 [Season 2 - 2006](s2.md)
