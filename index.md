@@ -1,5 +1,3 @@
-# Welcome to the CraigyFerg Late Late Show Episode List! 
-
 [Season 1 - 2005](https://chrislenz.github.io/craigyferg/s1.md)
 
 [Season 2 - 2006](https://chrislenz.github.io/craigyferg/s2.md)
